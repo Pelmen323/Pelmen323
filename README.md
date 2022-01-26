@@ -8,13 +8,15 @@ I'm a big fan of Python coding and I am eager to use the power of programming in
 What can you find on this page? Various Repos with tests in Python:
 - UI automation demos via Selenium
 - API automation demos via requests lib
-- A set of tests for Kaiserreich - this one is in active development and is constantly expanding, It can be used with Jenkins as well!
+- A set of tests for Kaiserreich - this one is in active development and is constantly expanding, It can be used with Jenkins as well
 - A repo with various programs in Python written by me as practice
 
-
+### Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pelmen323&count_private=true&hide=stars,prs,contribs&show_icons=true&include_all_commits=true&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelmen323&layout=compact&theme=dark" />
 
+### Contacts
+You can find me on Discord (Pelmen#2920)
 <!--
 **Pelmen323/Pelmen323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
