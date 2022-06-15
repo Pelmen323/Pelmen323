@@ -12,8 +12,8 @@ What can you find on this page? Various Repos with tests in Python:
 - A repo with various programs in Python written by me as practice
 
 ### Github stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pelmen323&count_private=true&hide=stars,prs,contribs&show_icons=true&include_all_commits=true&theme=github_dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelmen323&layout=compact&exclude_repo=pelmen323.github.io&theme=github_dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pelmen323&count_private=true&hide=stars,prs,contribs&show_icons=true&include_all_commits=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelmen323&layout=compact&exclude_repo=pelmen323.github.io&theme=dark" />
 
 ### Contacts
 You can find me on Discord (Pelmen#2920)
