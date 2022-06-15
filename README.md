@@ -6,10 +6,10 @@ In my free time I am a developer for [Kaiserreich](https://steamcommunity.com/sh
 
 I'm a big fan of Python coding and I am eager to use the power of programming in software testing.
 What can you find on this page? Various Repos with tests in Python:
-- UI automation demos via Selenium
-- API automation demos via requests lib
-- A set of tests for Kaiserreich - this one is in active development and is constantly expanding, It can be used with Jenkins as well
-- A repo with various programs in Python written by me as practice
+- A set of tests for Kaiserreich with more than 80 tests to check various aspects of the codebase to keep our product quality high. Execution via pytest, supports Jenkins as runner;
+- UI test automation demos via Selenium;
+- API test automation demos via requests lib;
+- A repo with various small programs in Python;
 
 ### Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pelmen323&count_private=true&hide=stars,prs,contribs&show_icons=true&include_all_commits=true&theme=dark" />
@@ -17,6 +17,8 @@ What can you find on this page? Various Repos with tests in Python:
 
 ### Contacts
 You can find me on Discord (Pelmen#2920)
+
+https://pelmen323.github.io/
 <!--
 **Pelmen323/Pelmen323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
