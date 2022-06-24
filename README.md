@@ -2,14 +2,16 @@
 
 My name is Vadzim Fiadotsyeu, I'm from Belarus, and I'm working as a software testing engineer at EPAM.
 
-In my free time I am a developer for [Kaiserreich](https://steamcommunity.com/sharedfiles/filedetails/?id=1521695605)
-
 I'm a big fan of Python coding and I am eager to use the power of programming in software testing.
-What can you find on this page? Various Repos with tests in Python:
-- A set of tests for Kaiserreich with more than 80 tests to check various aspects of the codebase to keep our product quality high. Execution via pytest, supports Jenkins as runner;
-- UI test automation demos via Selenium;
+
+My contributions, apart from my own repositories, include:
+- [Kaiserreich](https://steamcommunity.com/sharedfiles/filedetails/?id=1521695605) (Paradox Scripting Language) - One of the most popular modifications for Hearts of Iron IV. My commits include mod development, bugfixing, data generation;
+
+My personal repos include various coding projects in Python:
+- A set of tests for Kaiserreich with more than 90 integration and unit tests to check various aspects of the codebase to keep our product quality high. Execution via pytest, supports Jenkins as runner. Fast execution, widespread code reusage and easy maintenance thanks to OOP;
+- UI test automation demos via Selenium - Ecomm automation demo, [Humanbenchmark](https://humanbenchmark.com) tests automation.;
 - API test automation demos via requests lib;
-- A repo with various small programs in Python;
+- A repo with various misc programs in Python - snake, calculator, text editor etc;
 
 ### Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pelmen323&count_private=true&hide=stars,prs,contribs&show_icons=true&include_all_commits=true&theme=dark" />
