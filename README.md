@@ -15,8 +15,12 @@ My personal repos include various coding projects in Python:
 - A repo with various misc programs in Python - snake, calculator, text editor etc;
 
 ### Github stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pelmen323&count_private=true&hide=stars,prs,contribs&show_icons=true&include_all_commits=true&theme=github_dark" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pelmen323&theme=python-dark&ring=517850&fire=6B77A5&currStreakLabel=517850&sideLabels=517850&dates=A7AAA9&currStreakNum=6295E9&sideNums=6295E9&border=ACABAD&stroke=6295E9&background=0E1117)](https://git.io/streak-stats)
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelmen323&layout=compact&exclude_repo=pelmen323.github.io&theme=github_dark" />
+
+
 
 ### Contacts
 You can find me on Discord (Pelmen#2920)
