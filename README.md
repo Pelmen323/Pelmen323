@@ -15,7 +15,7 @@ My personal repos include various coding projects in Python:
 - A repo with various misc programs in Python - snake, calculator, text editor etc;
 
 ### Github stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pelmen323&theme=python-dark&ring=436FA3&fire=A29DD0&currStreakLabel=517850&sideLabels=517850&dates=A7AAA9&currStreakNum=436FA3&sideNums=436FA3&border=ACABAD&stroke=436FA3&background=0E1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pelmen323&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelmen323&layout=compact&exclude_repo=pelmen323.github.io&theme=github_dark" />
