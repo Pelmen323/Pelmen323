@@ -10,10 +10,11 @@ My contributions, apart from my own repositories, include:
 
 My personal repos include various coding projects in Python:
 - Testing framework for Kaiserreich with around 100 integration and unit tests to check various aspects of the codebase to keep our product quality high. Execution via pytest, supports Jenkins as runner. Fast execution, widespread code reusage and easy maintenance thanks to OOP;
-- [Kaiserreich Data Analysis](https://kr-data.herokuapp.com/) Web application for data visualisation and analysis. Built with Plotly and Dash.
+- .exe launcher to start multiple copies of .exe file, run them for set amount of time and kill processes;
+- [Kaiserreich Data Analysis](https://kr-data.herokuapp.com/) Web application for data visualisation and analysis to process Kaiserreich data. Built with Plotly and Dash.
 - UI test automation demos via Selenium - Ecomm automation demo, [Humanbenchmark](https://humanbenchmark.com) tests automation.;
 - API test automation demos via requests lib;
-- A repo with various misc programs in Python - snake, calculator, text editor etc.
+- A repo with various misc programs in Python - snake game, calculator, text editor etc.
 
 ### Github stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pelmen323&theme=github-dark-blue)](https://git.io/streak-stats)
