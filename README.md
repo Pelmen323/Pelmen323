@@ -25,9 +25,8 @@ My personal repos include various coding projects in Python:
 
 
 ### Contacts
-You can find me on Discord (Pelmen#2920)
+You can find me on Kaiserreich discord server
 
-https://pelmen323.github.io/
 <!--
 **Pelmen323/Pelmen323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
