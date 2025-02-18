@@ -17,15 +17,12 @@ My personal repos include various coding projects in Python:
 - A repo with various misc programs in Python - snake game, calculator, text editor etc.
 
 ### Github stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pelmen323&theme=github-dark-blue)](https://git.io/streak-stats)
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelmen323&layout=compact&exclude_repo=pelmen323.github.io&theme=github_dark" />
 
 
 
-### Contacts
-You can find me on Kaiserreich discord server
+### CV
+[CV - Vadzim Fiadotsyeu.pdf](https://github.com/user-attachments/files/18844669/CV.-.Vadzim.Fiadotsyeu.pdf)
 
 <!--
 **Pelmen323/Pelmen323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
