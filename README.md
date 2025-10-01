@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-My name is Vadzim Fiadotsyeu, I'm a software testing engineer at EPAM.
+My name is Vadzim Fiadotsyeu, I'm a senior software testing engineer at EPAM, performing manual and automated QA work in ecomm. 
 
-I'm a big fan of Python coding and I am eager to use the power of programming in software testing.
-
-My contributions, apart from my own repositories, include:
-- [Kaiserreich](https://steamcommunity.com/sharedfiles/filedetails/?id=1521695605) (Paradox Scripting Language) - One of the most popular modifications for Hearts of Iron IV. My commits include mod development, bugfixing, data generation;
-- [CWTools - Hoi4 config](https://github.com/cwtools/cwtools-hoi4-config) - CWTools .cwt config files for Hearts of Iron IV;
+Apart from, well, work, I actively participate in HOI4 modding scene as a hobby, with main contibutions targeting:
+- [Kaiserreich](https://steamcommunity.com/sharedfiles/filedetails/?id=1521695605) (Paradox Scripting Language) - One of the most popular modifications for Hearts of Iron IV;
+- [CWTools - Hoi4 config](https://github.com/cwtools/cwtools-hoi4-config) - CWTools .cwt config files for Hearts of Iron IV - static code analysis tool for pdx modders;
 
 My personal repos include various coding projects in Python:
 - Testing suite for Kaiserreich with around 100 integration and unit tests to check various aspects of the codebase to keep our product quality high. Execution via pytest, supports Jenkins as runner. Fast execution, widespread code reusage and easy maintenance thanks to OOP;
-- .exe launcher to start multiple copies of .exe file, run them for set amount of time and kill processes;
-- Web application for data visualisation and analysis to process Kaiserreich data. Built with Plotly and Dash.
-- UI test automation demos via Selenium - Ecomm automation demo, [Humanbenchmark](https://humanbenchmark.com) tests automation.;
-- API test automation demos via requests lib;
-- A repo with various misc programs in Python - snake game, calculator, text editor etc.
-
+- Code formatter for Kaiserreich
+- Data gathering and processing pipeline for Kaiserreich
+  
 ### Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelmen323&layout=compact&exclude_repo=pelmen323.github.io&theme=github_dark" />
 
